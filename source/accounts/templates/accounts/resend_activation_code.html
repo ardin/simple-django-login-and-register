@@ -5,23 +5,35 @@
 
 {% block content %}
 
-    <h4>{% trans 'Resend an activation code' %}</h4>
+<div class="col-sm-8 col-md-6 col-lg-4">
+    <div class="card my-2">
 
-    <form method="post">
+        <div class="card-body">
 
-        {% csrf_token %}
-        {% bootstrap_form form %}
+            <h4>{% trans 'Resend an activation code' %}</h4>
+            <form method="post">
 
-        <button class="btn btn-primary">{% trans 'Next' %}</button>
+                {% csrf_token %}
+                {% bootstrap_form form %}
 
-    </form>
+                <button class="btn btn-primary">{% trans 'Next' %}</button>
 
-    <hr>
+            </form>
 
-    <ul>
-        <li>
-            <a href="{% url 'accounts:log_in' %}">{% trans 'Log in' %}</a>
-        </li>
-    </ul>
+        </div>
+
+    </div>
+    <div class="text-left">
+
+        <hr>
+
+        <ul>
+            <li>
+                <a href="{% url 'accounts:log_in' %}">{% trans 'Log in' %}</a>
+            </li>
+        </ul>
+
+    </div>
+</div>
 
 {% endblock %}
