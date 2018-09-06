@@ -67,15 +67,19 @@
 
 </nav>
 
-<div class="container-fluid mt-3">
 
     {% bootstrap_messages %}
+    <div class="container">
+      <div class="row justify-content-center">
 
-    {% block content %}
-        No content.
-    {% endblock %}
+     {% block content %}
+       No content.
+     {% endblock %}
 
-</div>
+      </div>
+   </div>
+   
+
 
 <script src="{% static 'vendor/jquery/jquery-3.3.1.min.js' %}"></script>
 <script src="{% static 'vendor/popper/popper.min.js' %}"></script>
