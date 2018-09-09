@@ -5,15 +5,22 @@
 
 {% block content %}
 
-    <h4>{% trans 'Change email' %}</h4>
+<div class="col-sm-8 col-md-6 col-lg-4">
+    <div class="card my-2">
+        <div class="card-body">
 
-    <form method="post">
+            <h4>{% trans 'Change email' %}</h4>
 
-        {% csrf_token %}
-        {% bootstrap_form form %}
+            <form method="post">
 
-        <button class="btn btn-success">{% trans 'Change' %}</button>
+                {% csrf_token %}
+                {% bootstrap_form form %}
 
-    </form>
+                <button class="btn btn-success">{% trans 'Change' %}</button>
+
+            </form>
+        </div>
+   </div>
+</div>
 
 {% endblock %}

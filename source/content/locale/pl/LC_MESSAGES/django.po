@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: https://github.com/ardin/\n"
+"POT-Creation-Date: 2018-06-26 10:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Password"
+msgstr "Hasło"
+
+msgid "Remember me"
+msgstr "Zapamiętaj mnie"
+
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+msgid "You entered an invalid username."
+msgstr "Nieprawidłowy login."
+
+msgid "You entered an invalid password."
+msgstr "Nieprawidłowe hasło."
+
+msgid "This account is not active."
+msgstr "Użytkownik nieaktywny."
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "You entered an invalid email address."
+msgstr "Nieprawidłowy adres e-mail."
+
+msgid "Email or Username"
+msgstr "E-mail lub Hasło"
+
+msgid "You entered an invalid email address or username."
+msgstr "Nieprawidłowy użytkownik lub e-mail."
+
+msgid "Required. Enter an existing email address."
+msgstr "Wymagane. Wprowadź istniejący adres e-mail."
+
+msgid "You can not use this email address."
+msgstr "Nie możesz użyć tego adresu e-mail."
+
+msgid ""
+"Activation code has already been sent. You can request a new code in 24 "
+"hours."
+msgstr ""
+"Kod aktywacyjny został już wysłany. Kolejny może być wygenerowany po 24 godzinach."
+
+msgid "Activation code not found."
+msgstr "Kod aktywacyjny nie istnieje."
+
+msgid "This account has already been activated."
+msgstr "Ten użytkownik już został aktywowany."
+
+msgid "First name"
+msgstr "Imię"
+
+msgid "Last name"
+msgstr "Nazwisko"
+
+msgid "You can not use this mail."
+msgstr "Nie możesz użyć tego adresu e-mail."
+
+msgid "Please enter another email."
+msgstr "Wprowadź inny adres e-mail."
+
+msgid "Change password"
+msgstr "Zmień hasło"
+
+msgid "Change"
+msgstr "Zmień"
+
+msgid "To activate your profile, please follow this link:"
+msgstr "Aby aktywować profil, kliknij w link:"
+
+msgid "To change your current email address, please follow the link:"
+msgstr ""
+"Aby zmienić adres e-mail, kliknij w link:"
+
+msgid "Your username is:"
+msgstr "Twój użytkownik to:"
+
+msgid ""
+"You received this email because you requested a password reset for your user "
+"account."
+msgstr ""
+"Otrzymałeś ten e-mail ponieważ otrzymanie żądanie zmiany hasła dla "
+"Twojego użytkownika."
+
+msgid "Please, go to the following page and choose a new password:"
+msgstr "Przejdź do kolejnej strony i wybierz nowe hasło:"
+
+msgid "Log in"
+msgstr "Zaloguj"
+
+msgid "Forgot your password?"
+msgstr "Zapomniałeś hasła?"
+
+msgid "Forgot your username?"
+msgstr "Zapomniałeś użytkownika?"
+
+msgid "Resend an activation code"
+msgstr "Wyślij ponownie kod aktywacyjny"
+
+msgid "Logged out"
+msgstr "Wyloguj"
+
+msgid "Thanks for spending some quality time with the site today."
+msgstr "Dziękujemy za korzystanie z serwisu."
+
+msgid "Log in again"
+msgstr "Zaloguj ponownie"
+
+msgid "Change email"
+msgstr "Zmień e-mail"
+
+msgid "Change profile"
+msgstr "Zmień profil"
+
+msgid "Remind a username"
+msgstr "Przypomnij użytkownika"
+
+msgid "Next"
+msgstr "Dalej"
+
+msgid "Restore password"
+msgstr "Zresetuj hasło"
+
+msgid ""
+"Please enter your new password twice so we can verify you typed it in "
+"correctly."
+msgstr ""
+"Proszę wprowadź nowe hasło dwukrotnie abyśmy mogli zweryfikować jego "
+"poprawność."
+
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used. Please request a new password reset."
+msgstr ""
+"Link do resetu hasła jest nieprawidłowy ponieważ prawdopodobnie został użyty wcześniej. "
+"Prosimy, zresetuj hasło ponownie."
+
+msgid ""
+"We've emailed you instructions for setting your password, if an account "
+"exists with the email you entered."
+msgstr ""
+"Wysłaliśmy instrukcje do resetu hasła o ile użytkownik który wprowadzono "
+"istnieje."
+
+msgid "You should receive them shortly."
+msgstr "Powinieneś otrzymać go wkrótce."
+
+msgid ""
+"If you don't receive an email, please make sure you've entered the address "
+"you signed up with, and check your spam folder."
+msgstr ""
+"Jeśli nie otrzymałeś maila, proszę upewnij się, że wprowadzono prawidłowy adres "
+"którym się zarejestrowałeś oraz sprawdź folder spam "
+
+msgid "Create an account"
+msgstr "Nowy użytkownik"
+
+msgid "Create"
+msgstr "Utwórz"
+
+msgid "Profile activation"
+msgstr "Profil aktywacyjny"
+
+msgid "Your username"
+msgstr "Twój użytkownik"
+
+msgid ""
+"You are signed up. To activate the account, follow the link sent to the mail."
+msgstr ""
+"Zostałeś zarejestrowany. Aby aktywować użytkownika, sprawdź pocztę i kliknij "
+"w link aktywacyjny."
+
+msgid "You are successfully signed up!"
+msgstr "Zostałeś zarejestrowany!"
+
+msgid "You have successfully activated your account!"
+msgstr "Aktywowano użytkownika!"
+
+msgid "A new activation code has been sent to your email address."
+msgstr "Nowy kod aktywacyjny został wysłany na Twój adres e-mail."
+
+msgid "Profile data has been successfully updated."
+msgstr "Profil został zaktualizowany."
+
+msgid "To complete the change of email address, click on the link sent to it."
+msgstr ""
+"Aby dokończyć zmianę adresu e-mail, sprawdź pocztę i kliknij w link."
+
+
+msgid "Email successfully changed."
+msgstr "Zmieniono adres e-mail."
+
+msgid "You have successfully changed your email!"
+msgstr "Zmieniłeś adres e-mail!"
+
+msgid "Your username has been successfully sent to your email."
+msgstr ""
+"Nazwa użytkownika została wysłana na Twój e-mail."
+
+msgid "Your password was changed."
+msgstr "Twoje hasło zostało zmienione."
+
+msgid "Your password has been set. You may go ahead and log in now."
+msgstr "Twoje hasło zostało ustawione. Możesz się zalogować."
+
+msgid "English"
+msgstr "Angielski"
+
+msgid "Home"
+msgstr "Główna"
+
+msgid "Log out"
+msgstr "Wyloguj"
+
+msgid "Change language"
+msgstr "Zmień język"
+
+msgid "Select the language"
+msgstr "Wybierz język"
+
+msgid "Your username is"
+msgstr "Twoja nazwa użytkownika to "
+
+msgid "You are a guest."
+msgstr "Przeglądasz jako gość."
